@@ -10,11 +10,6 @@ print(type(type(X)))            --> string
 print(type(a))
 --]]
 html = [[
-<html>
-<head></head>
-<body>
-    <a href="http://www.runoob.com/">菜鸟教程</a>
-</body>
-</html>
+卧槽，王艳你怎么回事，给我带辣条
 ]]
 print(html)
